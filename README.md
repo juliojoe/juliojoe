@@ -6,6 +6,8 @@
 - Data Visualization
 - Predictive Modeling
 - Natural Language Processing (NLP)
+- Computer vision
+- Transfer Learning
 - Tensorflow 
 
 💼 **Open to Collaborations:** I'm always excited to collaborate on data science projects, whether it's research, open-source, or industry-related. Let's work together to solve real-world problems 🤝.
