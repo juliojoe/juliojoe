@@ -14,7 +14,7 @@
 
 🚀 **Looking for Opportunities:** Actively seeking employment opportunities in the field of data science. Passionate about applying my skills to make an impact 🌟.
 
-🌱 **Continuous Learner:** I believe in lifelong learning. Currently exploring Large Language Models, NLP.
+🌱 **Continuous Learner:** I believe in lifelong learning. Currently exploring Large Language Models, More tricks on NLP and Computer Visioning.
 
 🌐 **Connect with Me:**
 - LinkedIn: 
